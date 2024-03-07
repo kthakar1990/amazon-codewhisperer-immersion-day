@@ -8,5 +8,6 @@
             "extensionId": "ms-dotnettools.vscode-dotnet-runtime",
             "path": "/usr/local/share/dotnet/dotnet"
         }
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }

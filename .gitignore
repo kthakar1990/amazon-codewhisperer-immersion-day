@@ -5,4 +5,7 @@
   		  
 .fake
 */wwwroot/lib
-*/node_modules
+node_modules
+*.csv
+*.class
+*.properties
